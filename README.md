@@ -1,3 +1,3 @@
 # DelaunayGenerator
-simple Delaunay algorithm
+simple Delaunay algorithm.  
 oF project
